@@ -1,0 +1,69 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "rogermap.tmx",
+    "expandedProjectPaths": [
+        ".",
+        "objects.tsx"
+    ],
+    "file.lastUsedOpenFilter": "Alla filer (*)",
+    "fileStates": {
+        "bild2.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "objects.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.0625,
+            "scaleInEditor": 0.125
+        },
+        "rogerbild.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "rogermap.tmx": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1304,
+                "y": 956
+            }
+        },
+        "test.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 4,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/soder/pygame_zelda/graphics/test",
+    "map.height": 50,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 50,
+    "openFiles": [
+        "rogermap.tmx",
+        "rogerbild.tsx",
+        "bild2.tsx",
+        "objects.tsx",
+        "test.tsx"
+    ],
+    "project": "ground.tiled-project",
+    "recentFiles": [
+        "test.tsx",
+        "objects.tsx",
+        "bild2.tsx",
+        "rogerbild.tsx",
+        "rogermap.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    },
+    "tileset.type": 0
+}
